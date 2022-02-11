@@ -1,0 +1,28 @@
+.Mation{
+    width:100%;
+}
+.Mation .ant-table{
+    font-size: 16px!important;
+    line-height: 1.6 !important;
+}
+/* .Mation .ant-pagination{
+    margin: 35px 0!important;
+} */
+
+.ant-space{
+    gap:28px !important;
+}
+.ant-space .ant-space-item:nth-child(2){
+    color: #1890ff
+}
+.ant-space .ant-space-item:nth-child(3){
+    color: red
+}
+/* .ant-table-row .ant-table-cell{
+    text-overflow: ellipsis !important;
+    overflow: hidden !important;
+    color: red;
+} */
+.ant-table {
+    min-height: 680px !important;
+  }

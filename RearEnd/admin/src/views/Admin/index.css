@@ -1,0 +1,50 @@
+#components-layout-demo-custom-trigger .trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    height: 640px !important;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  .ant-layout-header{
+    background-color: aqua !important;
+    display: flex !important;
+    line-height: 64px !important;
+
+  }
+  /* #components-layout-demo-custom-trigger .trigger:hover {
+    color: #1890ff;
+  } */
+  
+  /* .logo {
+    width: 32px;
+    height: 32px !important;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+    background-image: url('./assets/zyz.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  } */
+ 
+  .site-layout .site-layout-background {
+    background: #fff;
+    font-size: 24px;
+  }
+ .trigger{
+      margin: 0 15px !important;
+  }
+  .ant-menu-item{
+      height: 55px !important;
+      line-height: 55px !important;
+  }
+  .logo{
+    height: 100px !important;
+    line-height: 100px !important;
+    margin: 0 !important;
+    font-size: 14px !important;
+    background-image: url('../../assets/zyz_bg.jpg') !important;
+    color: #000 !important;
+  }
+  .logo .ant-menu-title-content{
+    color: #fff !important;
+  }

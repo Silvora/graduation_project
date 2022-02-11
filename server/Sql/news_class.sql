@@ -1,0 +1,12 @@
+INSERT INTO `news_class` VALUES ('1632030487038', '健康', 'newsList_jk', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030519770', '其它', 'newsList_other', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030226766', '军事', 'newsList_js', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030507553', '历史文化', 'newsList_ls', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030362405', '娱乐', 'newsList_yl', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030477618', '房产', 'newsList_fc', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030242652', '教育', 'newsList_jy', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030371505', '汽车', 'newsList_qc', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632030353638', '生态', 'newsList_st', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632029893399', '社会', 'newsList_sh', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632029828905', '科技', 'newsList_kj', 'success', '2');
+INSERT INTO `news_class` VALUES ('1632029913204', '财经', 'newsList_cj', 'success', '2');
